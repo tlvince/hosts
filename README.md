@@ -10,8 +10,12 @@
 
 > Unified hosts file
 
-## Usage
+Point your device at: https://raw.githubusercontent.com/tlvince/hosts/gh-pages/hosts
 
+Based on [StevenBlack/hosts][]. Rebuilds nightly via Travis' [cron jobs][].
+
+[StevenBlack/hosts]: https://github.com/StevenBlack/hosts
+[cron jobs]: https://docs.travis-ci.com/user/cron-jobs/
 
 ## Author
 

@@ -1,0 +1,14 @@
+language: minimal
+script: ./build.sh
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: "$GITHUB_TOKEN"
+  on:
+    branch: master
+env:
+  global:
+    secure: pRqeGUMAhV1Q0GQe9ZqNyFRZUblcq/7JFacrvNYpsYmbk3yeMxxxYAkYbKRFyS3nHyDQ19UGK+Sy8rLqddgk+jX53zToKKQm+B6zW8sJbj/6FKXWw/sfUtqs8CfMg/ImqqyJuMCOveycgF7Pq/fIUKZ/FA4uw0UHkySBTgrLPyFNNwqXcAtlFpHzIejvZl5dK1ZgOHd9NfhroREAB/RQwd5lsnAgCpIplW64xJpTKIN+LE/6+yvS/sGwZJulbtmMCRXuLLM2CoNeKhRgeG6EAgw5R3EeXpAofy7t6ZaLW25e4GY5pDZe8Yy+xvz+w1P+i9UTCV7gxHliVYxAVFs8RV7P3t54hni/VtIiDLThNdBBKr3CX3WBmrr764qgGKPbq1n9D5MEbpNCiW/oSv0z5yrMoAmFnzKKkXbjvyjYKrgGPTwAqCOhVgzDNTD0iNCssHCh8yDVyYGPSIF5/Kq8RyMcEY/iM82daKPuk5ewGVWBo6UQMBi5wwoKS5CicEbVS2mkyt/Szz6bgKSRSqsNd1pccFdNajHGYQdFiuv+TjSTOoqkAymvmALycMwFh8Rih7Yegb2Uqwy/6bekyf/Wii5ctsseB1qbW2KBJTE6ZoyLpvHM5quW18ddhG8bFwzBcaj/p+mAEFyM0I/J/ulyYwII0HuBzlEGWmjlMj0zjCc=
+notifications:
+  email:
+    on_success: never

@@ -1,0 +1,14 @@
+0.0.0.0 web.whatsapp.com
+0.0.0.0 w1.web.whatsapp.com
+0.0.0.0 w2.web.whatsapp.com
+0.0.0.0 w3.web.whatsapp.com
+0.0.0.0 w4.web.whatsapp.com
+0.0.0.0 w5.web.whatsapp.com
+0.0.0.0 w6.web.whatsapp.com
+0.0.0.0 w7.web.whatsapp.com
+0.0.0.0 w8.web.whatsapp.com
+0.0.0.0 w9.web.whatsapp.com
+0.0.0.0 i.reddit.com
+0.0.0.0 www.reddit.com
+0.0.0.0 old.reddit.com
+0.0.0.0 oauth.reddit.com

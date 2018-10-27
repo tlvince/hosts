@@ -2,6 +2,7 @@ language: minimal
 script: ./build.sh
 deploy:
   provider: pages
+  local-dir: build
   skip-cleanup: true
   github-token: "$GITHUB_TOKEN"
   on:

@@ -288,3 +288,21 @@
 0.0.0.0 fullstory.com
 0.0.0.0 www.fullstory.com
 0.0.0.0 col.eum-appdynamics.com
+
+# https://github.com/julKali/nokia8-evenwell
+0.0.0.0 cn.c2dms.com
+0.0.0.0 www.c2dms.com
+0.0.0.0 caivssp-no-ww.c2dms.com
+0.0.0.0 caivssp-no-cn.c2dms.com
+0.0.0.0 cn-aps.c2dms.com
+0.0.0.0 aps-lab.c2dms.com
+0.0.0.0 aps.c2dms.com
+0.0.0.0 apr.c2dms.com
+0.0.0.0 cps-br-lab.c2dms.com
+0.0.0.0 caivssp-fi-cn.c2dms.com
+0.0.0.0 caivssp-fi-ww.c2dms.com
+0.0.0.0 nps-lab.c2dms.com
+0.0.0.0 cps.c2dms.com
+0.0.0.0 dms-no-ww.c2dms.com
+0.0.0.0 upps.c2dms.com
+0.0.0.0 demo.c2dms.com

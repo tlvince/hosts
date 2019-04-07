@@ -288,6 +288,7 @@
 0.0.0.0 fullstory.com
 0.0.0.0 www.fullstory.com
 0.0.0.0 col.eum-appdynamics.com
+0.0.0.0 trk.clearscore.com
 
 # https://github.com/julKali/nokia8-evenwell
 0.0.0.0 cn.c2dms.com

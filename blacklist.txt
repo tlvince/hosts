@@ -148,6 +148,7 @@
 # Amplitude analytics
 0.0.0.0 d24n15hnbwhuhn.cloudfront.net
 0.0.0.0 analytics.twitter.com
+0.0.0.0 rightmoveanalytics.co.uk
 
 # Don't even bother
 0.0.0.0 gs.dailymail.co.uk

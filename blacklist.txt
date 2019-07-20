@@ -1,7 +1,7 @@
-# @tlvince's empirical ad/bug blocking.
+# @tlvince's empirical ad/bug blocking. {{{1
 # Usage: append to /etc/hosts
 
-# Social sharing widgets
+# Social sharing widgets {{{1
 0.0.0.0 platform.twitter.com
 0.0.0.0 static.bufferapp.com
 0.0.0.0 platform.linkedin.com
@@ -36,7 +36,7 @@
 # Send to Kindle
 0.0.0.0 d1xnn692s7u6t6.cloudfront.net
 
-# Comments
+# Comments {{{1
 0.0.0.0 livefyre.com
 0.0.0.0 cdn.livefyre.com
 0.0.0.0 zor.fyre.co
@@ -57,7 +57,7 @@
 0.0.0.0 api.echoenabled.com
 0.0.0.0 cdn.echoenabled.com
 
-# Analytics
+# Analytics {{{1
 0.0.0.0 gaug.es
 0.0.0.0 googletagmanager.com
 0.0.0.0 www.googletagmanager.com
@@ -150,7 +150,7 @@
 0.0.0.0 analytics.twitter.com
 0.0.0.0 rightmoveanalytics.co.uk
 
-# Don't even bother
+# Daily Fail {{{1
 0.0.0.0 gs.dailymail.co.uk
 0.0.0.0 i.dailymail.co.uk
 0.0.0.0 t.dailymail.co.uk
@@ -165,7 +165,7 @@
 0.0.0.0 assets.pinterest.com
 0.0.0.0 api.pinterest.com
 
-# Ads
+# Ads {{{1
 0.0.0.0 static.nrelate.com
 0.0.0.0 c13.static.nrcdn.com
 0.0.0.0 tag.perfectaudience.com
@@ -245,7 +245,7 @@
 0.0.0.0 collector-141.tvsquared.com
 0.0.0.0 timeout.tt.omtrdc.net
 
-# Live chat
+# Live chat {{{1
 0.0.0.0 server.lon.liveperson.net
 0.0.0.0 sr4.liveperson.net
 0.0.0.0 static.olark.com
@@ -268,25 +268,25 @@
 0.0.0.0 assetscdn-wchat.freshchat.com
 0.0.0.0 client.crisp.chat
 
-# Monitoring
+# Monitoring {{{1
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 beacon.errorception.com
 0.0.0.0 js.intercomcdn.com
 0.0.0.0 cdn.ravenjs.com
 
-# Affiliates
+# Affiliates {{{1
 0.0.0.0 paidonresults.net
 0.0.0.0 paidonresults.com
 0.0.0.0 www.paidonresults.com
 
-# Crapware
+# Crapware {{{1
 0.0.0.0 mackeeper.com
 0.0.0.0 mackeeperapp.mackeeper.com
 0.0.0.0 promotions.betfred.com
 0.0.0.0 www.video1404.info
 0.0.0.0 www.googlecommerce.com
 
-# Tracking
+# Tracking {{{1
 0.0.0.0 uni-of-oxford.custhelp.com
 0.0.0.0 beijaflor.io
 0.0.0.0 fullstory.com
@@ -294,7 +294,7 @@
 0.0.0.0 col.eum-appdynamics.com
 0.0.0.0 trk.clearscore.com
 
-# https://github.com/julKali/nokia8-evenwell
+# https://github.com/julKali/nokia8-evenwell {{{1
 0.0.0.0 cn.c2dms.com
 0.0.0.0 www.c2dms.com
 0.0.0.0 caivssp-no-ww.c2dms.com
@@ -312,5 +312,5 @@
 0.0.0.0 upps.c2dms.com
 0.0.0.0 demo.c2dms.com
 
-# Obtrusive
+# Obtrusive {{{1
 0.0.0.0 tag.rightmessage.com

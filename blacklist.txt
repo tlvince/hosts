@@ -48,9 +48,12 @@
 0.0.0.0 go.disqus.com
 0.0.0.0 disquscdn.com
 0.0.0.0 a.disquscdn.com
+0.0.0.0 b.disquscdn.com
+0.0.0.0 c.disquscdn.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 disqusads.com
 0.0.0.0 brianstorti.disqus.com
+0.0.0.0 freeagent.disqus.com
 0.0.0.0 viafoura.com
 0.0.0.0 api.viafoura.com
 0.0.0.0 cnd.viafoura.com

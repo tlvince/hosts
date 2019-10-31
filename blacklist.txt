@@ -237,7 +237,6 @@
 0.0.0.0 2a86.v.fwmrm.net
 0.0.0.0 adserver.exoticads.com
 0.0.0.0 exoticads.com
-0.0.0.0 open.spotify.com
 0.0.0.0 desktop.spotify.com
 0.0.0.0 audio2.spotify.com
 0.0.0.0 adplexmedia.adk2x.com

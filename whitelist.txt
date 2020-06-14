@@ -166,3 +166,4 @@
 0.0.0.0 e.thumbs.redditmedia.com
 0.0.0.0 f.thumbs.redditmedia.com
 0.0.0.0 v.redd.it
+0.0.0.0 www.redditstatic.com

@@ -59,6 +59,7 @@
 0.0.0.0 cnd.viafoura.com
 0.0.0.0 api.echoenabled.com
 0.0.0.0 cdn.echoenabled.com
+0.0.0.0 staticw2.yotpo.com
 
 # Analytics {{{1
 0.0.0.0 gaug.es

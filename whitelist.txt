@@ -169,3 +169,6 @@
 0.0.0.0 www.redditstatic.com
 0.0.0.0 reddit.map.fastly.net
 0.0.0.0 preview.redd.it
+
+# LinkedIn
+0.0.0.0 www.linkedin.com

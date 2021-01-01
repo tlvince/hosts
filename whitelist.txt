@@ -167,3 +167,5 @@
 0.0.0.0 f.thumbs.redditmedia.com
 0.0.0.0 v.redd.it
 0.0.0.0 www.redditstatic.com
+0.0.0.0 reddit.map.fastly.net
+0.0.0.0 preview.redd.it

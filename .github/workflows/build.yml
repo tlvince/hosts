@@ -2,8 +2,9 @@ name: Build
 
 on:
   push:
-    branches:
-      - $default-branch
+    branches: [$default-branch]
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 concurrency:

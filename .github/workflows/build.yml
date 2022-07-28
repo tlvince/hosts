@@ -2,7 +2,8 @@ name: Build
 
 on:
   push:
-    branches: [$default-branch]
+    branches:
+      - master
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:

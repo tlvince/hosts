@@ -1,25 +1,14 @@
 # hosts
 
-[![Build Status][travis-image]][travis-url]
-[![License][license-image]][license-url]
-
-[travis-url]: https://travis-ci.org/tlvince/hosts
-[travis-image]: https://img.shields.io/travis/tlvince/hosts.svg
-[license-url]: https://opensource.org/licenses/MIT
-[license-image]: https://img.shields.io/npm/l/hosts.svg
-
 > Unified hosts file
 
-Point your device at: https://raw.githubusercontent.com/tlvince/hosts/gh-pages/hosts
+Point your device at: https://tlvince.com/hosts/hosts
 
-Based on [StevenBlack/hosts][]. Rebuilds nightly via Travis' [cron jobs][].
-
-[StevenBlack/hosts]: https://github.com/StevenBlack/hosts
-[cron jobs]: https://docs.travis-ci.com/user/cron-jobs/
+Based on [StevenBlack/hosts](https://github.com/StevenBlack/hosts). Rebuilds nightly via [GitHub Actions](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#creating-a-custom-github-actions-workflow-to-publish-your-site).
 
 ## Author
 
-© 2018 Tom Vincent <git@tlvince.com> (https://tlvince.com)
+© 2022 Tom Vincent <git@tlvince.com> (https://tlvince.com)
 
 ## License
 

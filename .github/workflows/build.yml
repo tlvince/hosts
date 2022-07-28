@@ -3,11 +3,17 @@ name: Build
 on:
   push:
     branches:
-      - master
+      - $default-branch
   workflow_dispatch:
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
 
 jobs:
   build:
+    permissions:
+      contents: read
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3

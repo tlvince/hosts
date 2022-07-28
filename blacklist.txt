@@ -155,6 +155,7 @@
 0.0.0.0 rightmoveanalytics.co.uk
 0.0.0.0 web-sdk-eu.aptrinsic.com
 0.0.0.0 esp-eu.aptrinsic.com
+0.0.0.0 feedbackws.icloud.com
 
 # Daily Fail {{{1
 0.0.0.0 gs.dailymail.co.uk
@@ -279,6 +280,7 @@
 0.0.0.0 api.usehero.com
 0.0.0.0 maxchatbot.co.uk
 0.0.0.0 apps.mypurecloud.com
+0.0.0.0 cdn.userlane.com
 
 # Monitoring {{{1
 0.0.0.0 js-agent.newrelic.com

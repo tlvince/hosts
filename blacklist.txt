@@ -309,6 +309,7 @@
 0.0.0.0 col.eum-appdynamics.com
 0.0.0.0 trk.clearscore.com
 0.0.0.0 t.premii.com
+0.0.0.0 3ma79ae7cua.com
 
 # https://github.com/julKali/nokia8-evenwell {{{1
 0.0.0.0 cn.c2dms.com
@@ -331,3 +332,6 @@
 # Obtrusive {{{1
 0.0.0.0 tag.rightmessage.com
 0.0.0.0 f1-eu.readspeaker.com
+
+# Fingerprinting {{{1
+0.0.0.0 script.mfilterit.net

@@ -8,7 +8,7 @@ Based on [StevenBlack/hosts](https://github.com/StevenBlack/hosts). Rebuilds nig
 
 ## Author
 
-© 2022 Tom Vincent <git@tlvince.com> (https://tlvince.com)
+© 2023 Tom Vincent <git@tlvince.com> (https://tlvince.com)
 
 ## License
 

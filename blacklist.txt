@@ -252,6 +252,7 @@
 0.0.0.0 timeout.tt.omtrdc.net
 0.0.0.0 cloudimagesa.com
 0.0.0.0 a.realsrv.com
+0.0.0.0 static.goasrv.com
 
 # Live chat {{{1
 0.0.0.0 server.lon.liveperson.net
@@ -281,6 +282,7 @@
 0.0.0.0 maxchatbot.co.uk
 0.0.0.0 apps.mypurecloud.com
 0.0.0.0 cdn.userlane.com
+0.0.0.0 static.widget.trengo.eu
 
 # Monitoring {{{1
 0.0.0.0 js-agent.newrelic.com

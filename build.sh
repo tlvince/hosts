@@ -13,4 +13,4 @@ done < <(grep -v -e '^[[:space:]]*$' -e '^#' "whitelist.txt")
 cat "blacklist.txt" >> "build/hosts"
 
 # smoke test to verify no funny business
-diff -q known-ips.txt <(grep -v '#' "build/hosts" | awk '{print $1}' | sort | uniq)
+diff known-ips.txt <(grep -v '#' "build/hosts" | awk '{print $1}' | sort | uniq)
